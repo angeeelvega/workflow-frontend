@@ -1,2 +1,2 @@
 # workflow-frontend
-esto es otra prueba 2
+esto es otra prueba
